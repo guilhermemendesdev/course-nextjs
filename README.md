@@ -15,3 +15,10 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Roteamento baseado em arquivo
 - Adicionando rotas adicionais
 - Vinculação entre páginas
+
+### 13/02/2025
+- UI comum no NextJS com layouts
+- Estratégia de Estrutura do Projeto
+- Atalho de importação de caminho absoluto
+- Arquivos de imagem + atualização de importação
+- Adicionando imagens no NextJS
